@@ -5,5 +5,8 @@
         "commitMessage": "v${version}",
         "tag": true,
         "tagName": "v${version}"
+    },
+    "npm": {
+        "publish": false
     }
 }
