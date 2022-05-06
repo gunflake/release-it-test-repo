@@ -1,8 +1,9 @@
 {
-    "plugins": {
-        "@release-it/conventional-changelog": {
-            "preset": "angular",
-            "infile": "CHANGELOG.md"
-        }
+    "git": {
+        "requireBranch": "master",
+        "commit": true,
+        "commitMessage": "${description}_v${version}",
+        "tag": true,
+        "tagName": "v${version}"
     }
 }
