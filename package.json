@@ -24,7 +24,11 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public",
-    "release": "release-it"
+    "release": "release-it",
+    "release:preRelease": "release-it --preRelease",
+    "release:patch": "release-it patch",
+    "release:minor": "release-it minor",
+    "release:major": "release-it major"
   },
   "eslintConfig": {
     "extends": [
