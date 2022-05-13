@@ -1,5 +1,12 @@
 
 
+## [0.5.0](https://github.com/gunflake/release-it-test-repo/compare/v0.4.0...v0.5.0) (2022-05-13)
+
+
+### Features
+
+* Test Plus 함수 추가 ([4e844be](https://github.com/gunflake/release-it-test-repo/commit/4e844be90a701a3b6c0f7db65306c07c6ccab6de))
+
 ## [0.4.0](https://github.com/gunflake/release-it-test-repo/compare/v0.3.0...v0.4.0) (2022-05-06)
 
 
