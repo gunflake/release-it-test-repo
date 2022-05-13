@@ -1,7 +1,4 @@
 {
-    "hooks": {
-        "after:bump": "npm run build"
-    },
     "git": {
         "changelog": "git log --pretty=format:\"* %s (%h)\" ${from}...${to}",
         "requireBranch": "master",
